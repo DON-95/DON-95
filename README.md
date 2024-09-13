@@ -12,7 +12,7 @@ I’m currently focused on expanding my skills in HTML, CSS, JS, REACT etc and a
 - **Tools:** : VSCode
 - **Databases:** : MongoDB
 
-## 🌱 Currently Learning
+## 🌱 Currently Mastering
 
 - CSS
 - JS
